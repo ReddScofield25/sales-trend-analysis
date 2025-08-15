@@ -35,3 +35,4 @@ This project demonstrates:
 ## 🔗 About This Project
 
 This is a self-guided project from the Google Data Analytics Certificate course, used to build real-world skills and add to my data portfolio.
+
